@@ -1,5 +1,5 @@
 package primitivecasting;
-
+// this is implcite
 public class Implicitecasting {
 
 	public static void main(String[] args) {
